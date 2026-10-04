@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<unload unload_date="2026-10-04 12:59:36">
+<u_employee_table action="INSERT_OR_UPDATE">
+<sys_created_by>admin</sys_created_by>
+<sys_created_on>2026-10-04 12:01:35</sys_created_on>
+<sys_id>51baf79cc3bb8310978879ec0501310a</sys_id>
+<sys_mod_count>0</sys_mod_count>
+<sys_updated_by>admin</sys_updated_by>
+<sys_updated_on>2026-10-04 12:01:35</sys_updated_on>
+<u_department>Servicenow</u_department>
+<u_email>user1@gmail.com</u_email>
+<u_employee_id>SB0001</u_employee_id>
+<u_employee_name>user1</u_employee_name>
+<u_location>Tamil nadu</u_location>
+</u_employee_table>
+</unload>
